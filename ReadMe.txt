@@ -1,13 +1,13 @@
-// to clone the project
-git clone https://github.com/PallaviPawar483/ZippyTrips.git
+.// to clone the project
+1. git clone https://github.com/PallaviPawar483/ZippyTrips.git
 
-cd ZippyTrips 
+2.cd ZippyTrips 
 
 //install dependencies from package.json
-npm install
+3.npm install
 
 //Run migrations to create the trips table if databse and table do not exist
 npx sequelize-cli db:migrate 
 
 //start project
-npm start
+4.npm start
