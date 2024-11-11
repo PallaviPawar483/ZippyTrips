@@ -1,5 +1,5 @@
 // to clone the project
-git clone https://github.com/joseph-m-mcdonald/
+git clone https://github.com/PallaviPawar483/ZippyTrips.git
 
 //install dependencies from package.json
 npm install
